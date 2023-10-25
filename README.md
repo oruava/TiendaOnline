@@ -13,16 +13,16 @@ Clase Cuenta:
 Clase Pedidos:
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/45ab88ef-ca3a-4fa7-b534-73f7c7d43f49)
 
-Clase UsuarioWeb  
+Clase UsuarioWeb:  
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/46d362a4-2b86-47e5-9d91-82e2d02dea6a)
 
 Clase MedioDePago:
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/9943b2c3-16e4-4fe4-8442-93f9e6fe68ed)
 
-Clase CarritoDeCompras
+Clase CarritoDeCompras:
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/78b3a47c-9130-4822-a0fc-2ad4b6a345f0)
 
-Clase FamiliaDeProductos
+Clase FamiliaDeProductos:
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/edf97b13-98a9-4773-9f0a-a8b7ba548e4d)
 
 Clase ProductoEspecifico:
