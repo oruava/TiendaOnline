@@ -4,15 +4,15 @@
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/b9e30aa9-ab90-4eb3-9d48-3f9b9dcb4cb6)
 
 # Imagenes del codigo autogenerado en VPP:
-Clase Cliente 
+Clase Cliente: 
 
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/5d0a2089-3ece-4b1d-893a-6bf62f5b62a6)
 
-Clase Cuenta
+Clase Cuenta:
 
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/f6e3b3b8-9fb6-47bc-ad96-fa8b996b0903)
 
-Clase Pedidos
+Clase Pedidos:
 
 ![image](https://github.com/oruava/TiendaOnline/assets/138495779/45ab88ef-ca3a-4fa7-b534-73f7c7d43f49)
 
